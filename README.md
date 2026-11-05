@@ -8,7 +8,7 @@ The system uses a solar collector, solar absorber, drying chamber, air blower, t
 
 A data logger is integrated to record weight measurements at regular intervals of 2 minutes, helping monitor moisture loss during the drying process.
 
-## 🏢 Internship Details
+## Internship Details
 
 This project was completed as part of my **On-Job Training (OJT-2) Internship at Saburi Scientific, Goa**.
 
