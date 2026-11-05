@@ -18,7 +18,7 @@ The project involved understanding, installing, integrating, and testing a solar
 
 **Internship Organization:** Saburi Scientific  
 **Location:** Goa, India  
-**Training:** On-Job Training (OJT-2)  
+**Training:** On-Job Training  
 **Project:** Solar Drying Process for Agriculture and Food Machinery
 
 ## Objectives
@@ -125,6 +125,6 @@ The Solar Drying Process for Agriculture and Food Machinery provides an energy-e
 
 **Project Domain:** Renewable Energy | Solar Technology | Agricultural Engineering | Food Preservation
 
-**Project Type:** On-Job Training (OJT-2) Project
+**Project Type:** On-Job Training Project
 
 **Project Title:** Solar Drying Process for Agriculture and Food Machinery
