@@ -1,6 +1,6 @@
-# ☀️ Solar Drying Process for Agriculture and Food Machinery
+# Solar Drying Process for Agriculture and Food Machinery
 
-## 📌 Project Overview
+## Project Overview
 
 The **Solar Drying Process for Agriculture and Food Machinery** is a sustainable drying system designed to preserve agricultural and food products using renewable solar energy.
 
@@ -8,7 +8,20 @@ The system uses a solar collector, solar absorber, drying chamber, air blower, t
 
 A data logger is integrated to record weight measurements at regular intervals of 2 minutes, helping monitor moisture loss during the drying process.
 
-## 🎯 Objectives
+## 🏢 Internship Details
+
+This project was completed as part of my **On-Job Training (OJT-2) Internship at Saburi Scientific, Goa**.
+
+During the internship, I gained practical exposure to solar drying technology, renewable energy systems, agricultural food preservation, and scientific equipment.
+
+The project involved understanding, installing, integrating, and testing a solar drying system using solar energy, thermal energy storage, forced air circulation, and weight monitoring techniques.
+
+**Internship Organization:** Saburi Scientific  
+**Location:** Goa, India  
+**Training:** On-Job Training (OJT-2)  
+**Project:** Solar Drying Process for Agriculture and Food Machinery
+
+## Objectives
 
 - Utilize renewable solar energy for agricultural product drying.
 - Reduce dependence on conventional electricity and fossil fuels.
@@ -18,7 +31,7 @@ A data logger is integrated to record weight measurements at regular intervals o
 - Store excess thermal energy for use during low-sunlight conditions.
 - Improve product quality and extend shelf life.
 
-## ⚙️ Components and Equipment Used
+## Components and Equipment Used
 
 | No. | Component | Function |
 |---|---|---|
@@ -33,7 +46,7 @@ A data logger is integrated to record weight measurements at regular intervals o
 | 9 | Solar Absorber | Absorbs solar radiation and converts it into heat. |
 | 10 | Drying Chamber | Holds agricultural products during drying. |
 
-## 🔄 Working Principle
+## Working Principle
 
 The system operates using the following process:
 
@@ -46,7 +59,7 @@ The system operates using the following process:
 7. **Data Logging:** Weight measurements are recorded at 2-minute intervals using the data logger.
 8. **Drying Completion:** The process continues until the required moisture reduction is achieved.
 
-## 🏗️ System Architecture
+## System Architecture
 
 The overall system consists of the following functional sections:
 
@@ -57,7 +70,7 @@ The overall system consists of the following functional sections:
 - Agricultural Product Drying Chamber
 - Weight Measurement and Data Logging System
 
-## 🧪 Project Implementation and Testing
+## Project Implementation and Testing
 
 The solar drying system was installed and tested to evaluate its performance.
 
@@ -73,7 +86,7 @@ The following activities were carried out:
 
 **Experimental Testing:** Fish was used as the test product to evaluate the moisture removal capability of the solar drying system. The system successfully removed moisture from the fish during testing.
 
-## 🌱 Advantages
+## Advantages
 
 - Uses renewable and sustainable solar energy.
 - Reduces conventional energy consumption.
@@ -82,7 +95,7 @@ The following activities were carried out:
 - Thermal energy storage helps maintain drying conditions during periods of low solar radiation.
 - Integrated weighing scale enables continuous monitoring of product weight.
 
-## 🔬 Applications
+## Applications
 
 - Agricultural product preservation
 - Fruit and vegetable drying
@@ -91,11 +104,11 @@ The following activities were carried out:
 - Agricultural research and development
 - Small-scale and large-scale food processing industries
 
-## 📊 Project Outcomes
+## Project Outcomes
 
 The project demonstrated the practical application of solar energy in agricultural and food drying processes. The installed system operated successfully, providing sufficient solar energy and heat for the drying operation. Weight measurements were used to monitor moisture loss, and fish was successfully dried during experimental testing.
 
-## 🚀 Future Scope
+## Future Scope
 
 - Integration of IoT-based real-time monitoring.
 - Automated temperature and humidity control.
@@ -104,7 +117,7 @@ The project demonstrated the practical application of solar energy in agricultur
 - Automated data visualization and analysis.
 - Development of a fully automated solar drying system.
 
-## 🏁 Conclusion
+## Conclusion
 
 The Solar Drying Process for Agriculture and Food Machinery provides an energy-efficient and environmentally friendly approach to food preservation. By integrating solar energy collection, thermal energy storage, forced air circulation, and weight monitoring, the system helps improve the drying process and reduce post-harvest losses. The successful experimental testing demonstrates its potential for sustainable agricultural and food processing applications.
 
