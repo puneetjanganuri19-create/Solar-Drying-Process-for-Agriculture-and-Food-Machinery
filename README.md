@@ -10,7 +10,7 @@ A data logger is integrated to record weight measurements at regular intervals o
 
 ## Internship Details
 
-This project was completed as part of my **On-Job Training (OJT-2) Internship at Saburi Scientific, Goa**.
+This project was completed as part of my **On-Job Training Internship at Saburi Scientific, Goa**.
 
 During the internship, I gained practical exposure to solar drying technology, renewable energy systems, agricultural food preservation, and scientific equipment.
 
